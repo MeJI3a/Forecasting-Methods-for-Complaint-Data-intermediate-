@@ -1,4 +1,4 @@
-# Project 4: Data Cleaning and Advanced Forecasting Methods for Complaint Data
+# Data Cleaning and Advanced Forecasting Methods for Complaint Data
 
 ## **Project Overview**
 This project showcases two key components:
